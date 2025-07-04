@@ -1,5 +1,5 @@
 # Hi I'm Pharah 👋 <br>I am a college student interested in robotics.
-My research interests are mobility, drones, and reinforcement learning, and I am currently studying robot simulation and design.
+My research interests are mobility, drones, and reinforcement learning, <br>and I am currently studying robot simulation and design.
 
 ## 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjqzz@gmail.com)](mailto:ghtjqzz@gmail.com) 
