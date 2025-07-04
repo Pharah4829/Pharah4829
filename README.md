@@ -15,7 +15,7 @@ My research interests are mobility, drones, and reinforcement learning, <br>and 
 - Research Intern in Extreme Environment Mobility Lab, KAERI `2024.12 ~ 2025.09`
 
 ### 😄 Interests
-- Drones & Space Mobility
+- Drone & Space Mobility
 - Robot simulation
 - Computer vision
 
