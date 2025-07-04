@@ -1,4 +1,4 @@
-## Hi I'm Pharah 👋 <br>I am a college student interested in robotics.
+# Hi I'm Pharah 👋 <br>I am a college student interested in robotics.
 My research interests are mobility, drones, and reinforcement learning, and I am currently studying robot simulation and design.
 
 ## 📫 Contact
