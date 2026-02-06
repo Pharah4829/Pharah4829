@@ -9,6 +9,7 @@ My research interests are mobility, drones, and reinforcement learning, <br>and 
 ## 📕 About me
 ### :mortar_board: Education
 - B.S. in Mechatronics Engineering, Major in Digital Systems, Koreatech `2020.03 ~ 2025.08`
+- M/S. in Mechanical Engineering, UNIST '2026.03~'
 
 ### 🔬 Internships
 - Undergraduate Research Student in DICE Lab, Koreatech `2024.09 ~ 2024.12`
@@ -17,7 +18,7 @@ My research interests are mobility, drones, and reinforcement learning, <br>and 
 ### 😄 Interests
 - Drone & Space Mobility
 - Robot simulation
-- Computer vision
+- Robot Design
 
 ## 🔧 Skills 🔧
 ### 💻 Languages & Frameworks
