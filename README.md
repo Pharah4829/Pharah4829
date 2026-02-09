@@ -13,7 +13,7 @@ My research interests are mobility, drones, and reinforcement learning, <br>and 
 
 ### 🔬 Internships
 - Undergraduate Research Student in DICE Lab, Koreatech `2024.09 ~ 2024.12`
-- Research Intern in Extreme Environment Mobility Lab, KAERI `2024.12 ~ 2025.09`
+- Research Intern in Extreme Environment Mobility Lab, KAERI `2024.12 ~ 2026.03`
 
 ### 😄 Interests
 - Drone & Space Mobility
